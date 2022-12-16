@@ -1,2 +1,6 @@
 private
 .DS_Store
+data
+wdata
+yolov5l.pt
+env

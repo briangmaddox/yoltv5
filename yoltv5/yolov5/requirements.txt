@@ -38,3 +38,18 @@ thop  # FLOPs computation
 # albumentations>=1.0.3
 # pycocotools>=2.0  # COCO mAP
 # roboflow
+osmnx
+scikit-image
+statsmodels
+torchsummary
+utm
+numba
+jinja2==2.10
+rasterio
+fiona
+shapely
+geopandas
+rtree
+
+# Change for the version of gdal installed on your system
+gdal==3.4.1

@@ -20,16 +20,6 @@ YOLTv5 is built to execute on a GPU-enabled machine.
 	cd yoltv5/yolov5
 	pip install -r requirements.txt 
 
-	# update with geo packages
-	conda install -c conda-forge gdal
-	conda install -c conda-forge osmnx=0.12 
-	conda install  -c conda-forge scikit-image
-	conda install  -c conda-forge statsmodels
-	pip install torchsummary
-	pip install utm
-	pip install numba
-	pip install jinja2==2.10
-
 ___
 
 ### 1. Train
